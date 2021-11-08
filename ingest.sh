@@ -1,3 +1,4 @@
+#!/bin/bash 
 
 # remove older copy of file, if it exists
 rm -f earthquakes.csv
