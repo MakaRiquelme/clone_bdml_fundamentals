@@ -3,7 +3,7 @@
 sudo apt-get update
 sudo apt-get -y -qq --fix-missing install python3-mpltoolkits.basemap python3-numpy python3-matplotlib python3-requests
 
-#Copyright 2021 Celia Riquelme
+#Copyright 2021 MakarenaRiquelme
 
 #Licensed under the Apache License, Version 2.0 (the "License");
 #you may not use this file except in compliance with the License.
